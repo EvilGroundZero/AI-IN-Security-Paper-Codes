@@ -1,0 +1,7 @@
+Model,Task,Accuracy,Precision,Recall,F1,TrainTime_s
+Random Forest,Binary,0.7809,0.9666,0.6331,0.7651,2.77
+SVM,Binary,0.7962,0.9771,0.6537,0.7834,340.65
+MLP (Neural Net),Binary,0.8069,0.9736,0.6758,0.7978,37.16
+Random Forest,MultiClass,0.7601,0.8231,0.7601,0.7157,2.42
+SVM,MultiClass,0.7774,0.809,0.7774,0.7266,204.59
+MLP (Neural Net),MultiClass,0.7584,0.809,0.7584,0.7137,40.43
